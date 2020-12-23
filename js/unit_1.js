@@ -1,5 +1,3 @@
-export
-
 const delay = ms => {
   return new Promise((res, rej) => {
     setTimeout(() => {
